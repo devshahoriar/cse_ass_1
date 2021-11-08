@@ -1,2 +1,2 @@
-# cse_ass_1
- University CSE assignment. C programming basic.
+# Basic C programming University assignment
+![Question](assi_qus1.png)
